@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">RxFunny</string>
+    <string name="common_error">糟糕，加载失败···</string>
+    <string name="click_retry">点击重试</string>
+    <string name="LayoutManager">LinearLayoutManager</string>
 </resources>
